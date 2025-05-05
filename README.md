@@ -11,11 +11,17 @@ An intelligent data analysis platform that lets you interact with your datasets 
 - **Data Persistence** - SQLite backend for efficient data storage
 - **AI-Powered Analysis** - GPT-4 powered insights and recommendations
 
+## 🎯 User Interface
+
+![Demo](data/images/sh1.png)
+![Demo](data/images/sh2.png)
+![Demo](data/images/sh3.png)
+
 ## 🎯 Architecture
 
-![Demo](data/insight_generator.png)
-![Demo](data/chat_bot.png)
-![Demo](data/key.png)
+![Demo](data/images/insight_generator.png)
+![Demo](data/images/chat_bot.png)
+![Demo](data/images/key.png)
 
 ## 📦 Project Structure
 
